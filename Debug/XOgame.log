@@ -1,0 +1,16 @@
+﻿Build started 25.10.2014 21:18:59.
+     1>Project "E:\Projects\XOgame-2014-10-25\XOgame\XOgame\XOgame.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Projects\XOgame-2014-10-25\XOgame\XOgame\Debug\XOgame.exe" /INCREMENTAL /NOLOGO OpenGL32.lib glew32.lib freeglut.lib glu32.lib SOIL.lib irrKlang.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Projects\XOgame-2014-10-25\XOgame\XOgame\Debug\XOgame.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Projects\XOgame-2014-10-25\XOgame\XOgame\Debug\XOgame.lib" /MACHINE:X86 Debug\Firework.obj
+         Debug\main.obj
+         Debug\XO.obj
+     1>SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'E:\Projects\XOgame-2014-10-25\XOgame\XOgame\Debug\vc100.pdb'; linking object as if no debug info
+     1>SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'E:\Projects\XOgame-2014-10-25\XOgame\XOgame\Debug\vc100.pdb'; linking object as if no debug info
+     1>SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'E:\Projects\XOgame-2014-10-25\XOgame\XOgame\Debug\vc100.pdb'; linking object as if no debug info
+     1>SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'E:\Projects\XOgame-2014-10-25\XOgame\XOgame\Debug\vc100.pdb'; linking object as if no debug info
+         XOgame.vcxproj -> E:\Projects\XOgame-2014-10-25\XOgame\XOgame\Debug\XOgame.exe
+     1>Done Building Project "E:\Projects\XOgame-2014-10-25\XOgame\XOgame\XOgame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.77
